@@ -1,0 +1,6 @@
+[build]
+command = "bun run build && cp ./_headers ./dist/_headers"
+publish = "dist"
+
+[dev]
+command = "npm run dev"

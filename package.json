@@ -1,0 +1,21 @@
+{
+  "name": "gun-deaths-cdc-2023",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build && cp ./_headers ./dist/_headers",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^3.1.1",
+    "sass": "^1.77.8",
+    "svelte": "^4.2.18",
+    "vite": "^5.3.5"
+  },
+  "dependencies": {
+    "@floating-ui/dom": "^1.6.8",
+    "d3": "^7.9.0"
+  }
+}

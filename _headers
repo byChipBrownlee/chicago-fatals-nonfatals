@@ -1,0 +1,4 @@
+/*    
+  Access-Control-Allow-Origin: https://www.thetrace.org
+  Access-Control-Allow-Headers: Content-Type
+  Access-Control-Allow-Methods: GET, POST, OPTIONS

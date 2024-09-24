@@ -1,0 +1,92 @@
+[
+  {
+    "year": 2010,
+    "fatal": 354,
+    "total": 2799,
+    "percent": 12.64737406
+  },
+  {
+    "year": 2011,
+    "fatal": 370,
+    "total": 2669,
+    "percent": 13.86286999
+  },
+  {
+    "year": 2012,
+    "fatal": 440,
+    "total": 2954,
+    "percent": 14.89505755
+  },
+  {
+    "year": 2013,
+    "fatal": 353,
+    "total": 2263,
+    "percent": 15.5987627
+  },
+  {
+    "year": 2014,
+    "fatal": 365,
+    "total": 2558,
+    "percent": 14.26896013
+  },
+  {
+    "year": 2015,
+    "fatal": 432,
+    "total": 2922,
+    "percent": 14.78439425
+  },
+  {
+    "year": 2016,
+    "fatal": 695,
+    "total": 4273,
+    "percent": 16.26491926
+  },
+  {
+    "year": 2017,
+    "fatal": 604,
+    "total": 3384,
+    "percent": 17.84869976
+  },
+  {
+    "year": 2018,
+    "fatal": 481,
+    "total": 2876,
+    "percent": 16.72461752
+  },
+  {
+    "year": 2019,
+    "fatal": 446,
+    "total": 2639,
+    "percent": 16.90034104
+  },
+  {
+    "year": 2020,
+    "fatal": 698,
+    "total": 4089,
+    "percent": 17.07018831
+  },
+  {
+    "year": 2021,
+    "fatal": 750,
+    "total": 4419,
+    "percent": 16.97216565
+  },
+  {
+    "year": 2022,
+    "fatal": 643,
+    "total": 3509,
+    "percent": 18.32430892
+  },
+  {
+    "year": 2023,
+    "fatal": 559,
+    "total": 2944,
+    "percent": 18.98777174
+  },
+  {
+    "year": 2024,
+    "fatal": 351,
+    "total": 1970,
+    "percent": 17.81725888
+  }
+]
